@@ -1,0 +1,1 @@
+# ManualCheckpointof-Namenode
